@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm George Prethesh 👋</h1>
-<h3 align="center">A Passionate Self-Taught Backend Developer</h3>
+<h3 align="center">A Passionate  Backend Developer</h3>
 
 ---
 
-I'm George, a dedicated and efficient self-taught backend developer with a deep passion for coding and solving problems. My journey in the tech world is driven by my curiosity and my ambition to create impactful and efficient software solutions.
+I'm George, a dedicated and efficient backend developer with a deep passion for coding and solving problems. My journey in the tech world is driven by my curiosity and my ambition to create impactful and efficient software solutions.
 
 **About Me:**
 
